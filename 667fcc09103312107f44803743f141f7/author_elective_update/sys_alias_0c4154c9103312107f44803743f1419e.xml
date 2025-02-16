@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_wishlist.wishlist</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>wishlist</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 14:24:06</sys_created_on>
+        <sys_id>0c4154c9103312107f44803743f1419e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wishlist.wishlist</sys_name>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">667fcc09103312107f44803743f141f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">667fcc09103312107f44803743f141f7</sys_scope>
+        <sys_update_name>sys_alias_0c4154c9103312107f44803743f1419e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 14:24:06</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wishlist">667fcc09103312107f44803743f141f7</application>
+        <file_path/>
+        <instance_id>218f9c5893f31ad0dd40768efaba10ec</instance_id>
+        <instance_name>nowlearning-nlinst02506072-69bww-0001</instance_name>
+        <name>sys_alias_0c4154c9103312107f44803743f1419e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_snc_wishlist.wishlist</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>wishlist</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-16 14:24:06</sys_created_on><sys_id>0c4154c9103312107f44803743f1419e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_wishlist.wishlist</sys_name><sys_package display_value="Wishlist" source="x_snc_wishlist">667fcc09103312107f44803743f141f7</sys_package><sys_policy/><sys_scope display_value="Wishlist">667fcc09103312107f44803743f141f7</sys_scope><sys_update_name>sys_alias_0c4154c9103312107f44803743f1419e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-16 14:24:06</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-1941313405</payload_hash>
+        <record_name>x_snc_wishlist.wishlist</record_name>
+        <reverted_from/>
+        <source>227fcc09103312107f44803743f141fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 14:24:06</sys_created_on>
+        <sys_id>af51d4c9103312107f44803743f14108</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1950f251fa90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 14:24:06</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>e351d4c98333121006b482ea52387408</update_guid>
+        <update_guid_history>e351d4c98333121006b482ea52387408:-1941313405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 14:51:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>258b72aee76342e68f62cb639501d7f9</sys_id>
+        <sys_metadata>0c4154c9103312107f44803743f1419e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wishlist.wishlist</sys_name>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">667fcc09103312107f44803743f141f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">667fcc09103312107f44803743f141f7</sys_scope>
+        <sys_scope_delete display_value="">0ff45b89748e4bba92387acd47ef20c4</sys_scope_delete>
+        <sys_update_name>sys_alias_0c4154c9103312107f44803743f1419e</sys_update_name>
+        <sys_update_version display_value="sys_alias_0c4154c9103312107f44803743f1419e">af51d4c9103312107f44803743f14108</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 14:51:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
